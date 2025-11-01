@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+* {
+  font-family: "Outfit", sans-serif;
+}
+.hvr_line p {
+  position: relative;
+}
+.hvr_line p::after {
+  position: absolute;
+  left: 0;
+  content: "";
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: green;
+  transition: width 2s ease;
+  cursor: pointer;
+}
+.hvr_line p:hover::after {
+  width: 100%;
+}
+

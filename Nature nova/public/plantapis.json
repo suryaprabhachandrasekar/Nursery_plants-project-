@@ -1,0 +1,559 @@
+ [
+  {
+    "id": 1,
+    "title": "Lilly Flower ",
+    "price": 109,
+    "description": "Beautiful white lily flower with glossy green leaves.",
+    "category": "Flower",
+    "image": "https://gardengram.in/cdn/shop/products/nurserylive-lily-plants-category-image.webp?v=1708669234",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Rose Plant",
+    "price": 199,
+    "description": "Red rose plant that spreads fragrance.",
+    "category": "Flower",
+    "image": "https://www.jiomart.com/images/product/original/rvibirnytu/cloud-farm-real-live-dark-red-rose-live-plant-hybrid-for-balcony-terrace-outdoor-gardening-cf_2064-product-images-orvibirnytu-p603649580-0-202308050834.jpg?im=Resize=(420,420)",
+    "rating": {
+      "rate": 4.6,
+      "count": 98
+    }
+  },
+  {
+    "id": 3,
+    "title": "Tulip Flower Plant",
+    "price": 149,
+    "description": "Bright tulip flowers with multiple shades.",
+    "category": "Flower",
+    "image": "https://m.media-amazon.com/images/I/71soQIzEeRL._UF1000,1000_QL80_.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 67
+    }
+  },
+  {
+    "id": 4,
+    "title": "Sunflower Plant",
+    "price": 179,
+    "description": "Tall sunflower plant with large yellow petals.",
+    "category": "Flower",
+    "image": "https://creativefarmer.in/cdn/shop/products/23554_1024x1024_a26c0d9c-9a75-4edc-b0c6-1d85c5bcf9aa.jpg?v=1616308984",
+    "rating": {
+      "rate": 4.7,
+      "count": 143
+    }
+  },
+  {
+    "id": 5,
+    "title": "Orchid Flower",
+    "price": 220,
+    "description": "Exotic orchid flowers that bring elegance to any space.",
+    "category": "Flower",
+    "image": "https://cdn.pixabay.com/photo/2023/05/11/06/12/flowers-7985587_640.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 75
+    }
+  },
+  {
+    "id": 6,
+    "title": "Jasmine Plant",
+    "price": 130,
+    "description": "Jasmine plant with sweet fragrance.",
+    "category": "Flower",
+    "image": "https://m.media-amazon.com/images/I/61owzGZNSqL._UF1000,1000_QL80_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 89
+    }
+  },
+  {
+    "id": 7,
+    "title": "Money Plant",
+    "price": 99,
+    "description": "Popular indoor money plant believed to bring prosperity.",
+    "category": "Indoor",
+    "image": "https://dengarden.com/.image/w_3840,q_auto:good,c_limit/MTc0MzI0ODE0MTY3NzQ1ODk2/growing-pothos-money-plant-in-a-decorative-way.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 210
+    }
+  },
+  {
+    "id": 8,
+    "title": "Snake Plant",
+    "price": 145,
+    "description": "Air purifying snake plant, easy to maintain in homes .",
+    "category": "Indoor",
+    "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-aloe-vera-succulent-plant-16968585871500_700x700.jpg?v=1634213151",
+    "rating": {
+      "rate": 4.6,
+      "count": 132
+    }
+  },
+  {
+    "id": 9,
+    "title": "Aloe Vera Plant",
+    "price": 120,
+    "description": "Aloe vera  medicinal benefits for skin and health.",
+    "category": "Medicinal",
+    "image": "https://nurserylive.com/cdn/shop/products/nurserylive-plants-aloe-vera-succulent-plant-16968585871500_700x700.jpg?v=1634213151",
+    "rating": {
+      "rate": 4.9,
+      "count": 240
+    }
+  },
+  {
+    "id": 10,
+    "title": "Bonsai Tree",
+    "price": 350,
+    "description": " bonsai tree, symbol of patience and balance.",
+    "category": "Indoor",
+    "image": "https://www.midwestliving.com/thmb/N4m-gqpDuYgPwfrVao_2SNxndzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ML_Grow_Bonsai-8-2000-54d3d1a7424b4359b44e52383f40b834.jpg",
+    "rating": {
+      "rate": 4.2,
+      "count": 102
+    }
+  },
+  {
+    "id": 11,
+    "title": "Cactus Plant",
+    "price": 90,
+    "description": "Low-maintenance cactus plant, ideal for small spaces.",
+    "category": "Succulent",
+    "image": "https://bucket.somosohlala.com.ar/s3fs-public/styles/internal_990/public/2025-02/cactus_0.jpg.webp?itok=UpbVm3oe",
+    "rating": {
+      "rate": 4.1,
+      "count": 60
+    }
+  },
+  {
+    "id": 12,
+    "title": "Lavender Plant",
+    "price": 180,
+    "description": "Lavender plant with soothing fragrance for relaxation.",
+    "category": "Flower",
+    "image": "https://m.media-amazon.com/images/I/61sWO1hLXDL._UF894,1000_QL80_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 155
+    }
+  },
+  {
+    "id": 13,
+    "title": "Hibiscus Plant",
+    "price": 135,
+    "description": "Hibiscus plant with bright red flowers, often used in herbal teas.",
+    "category": "Flower",
+    "image": "https://nurserylive.com/cdn/shop/products/nurserylive-g-hibiscus-gudhal-flower-red-plant-213118_600x600.jpg?v=1751707084",
+    "rating": {
+      "rate": 4.4,
+      "count": 95
+    }
+  },
+  {
+    "id": 14,
+    "title": "Marigold Plant",
+    "price": 110,
+    "description": "Golden marigold plant, widely used for decorations and puja.",
+    "category": "Flower",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/10/456847920/KZ/RH/EW/15398857/marigold-plant.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 83
+    }
+  },
+  {
+    "id": 15,
+    "title": "Peony Plant",
+    "price": 210,
+    "description": "Peony plant with lush pink flowers, symbol of romance and prosperity.",
+    "category": "Flower",
+    "image": "https://media.istockphoto.com/id/177130955/photo/close-up-of-pink-peonies-in-open-field.jpg?s=612x612&w=0&k=20&c=T-zQzUE5C2TR3s3ExhW6-qTczm16z0YdR7tahFEcjOE=",
+    "rating": {
+      "rate": 4.5,
+      "count": 107
+    }
+  },
+  {
+    "id": 16,
+    "title": "Chrysanthemum Plant",
+    "price": 125,
+    "description": "Bright chrysanthemum flowers, long-lasting and vibrant.",
+    "category": "Flower",
+    "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/plant-seed/u/3/z/40-chrysanthemum-flower-seeds-c-372-kanaya-original-imaghmw9tyyxhgsk.jpeg?q=90&crop=false",
+    "rating": {
+      "rate": 4.6,
+      "count": 140
+    }
+  },
+  {
+    "id": 17,
+    "title": "Pothos Plant",
+    "price": 95,
+    "description": "Easy-to-grow pothos plant, perfect for hanging pots indoors.",
+    "category": "Indoor",
+    "image": "https://media.istockphoto.com/id/1320269359/photo/tropical-epipremnum-aureum-marble-queen-pothos-houseplant-in-flower-pot.jpg?s=612x612&w=0&k=20&c=Rc4J3wkUQgd9vN_O7c7wRnbqCy1UUafqRSYLE2KGv_c=",
+    "rating": {
+      "rate": 4.9,
+      "count": 188
+    }
+  },
+  {
+    "id": 18,
+    "title": "Geranium Plant",
+    "price": 140,
+    "description": "Geranium plant with clusters of colorful flowers, ideal for balconies.",
+    "category": "Flower",
+    "image": "https://www.picturethisai.com/wiki-image/1080/347094560811679744.jpeg",
+    "rating": {
+      "rate": 4.2,
+      "count": 77
+    }
+  },
+  {
+    "id": 19,
+    "title": "Bougainvillea Plant",
+    "price": 175,
+    "description": "Bougainvillea plant with pink blossoms, perfect for fencing and outdoors.",
+    "category": "Flower",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJG8svOrK-65B9xIa5nf_pRcC_09wMOgI-vw&s",
+    "rating": {
+      "rate": 4.4,
+      "count": 115
+    }
+  },
+  {
+    "id": 20,
+    "title": "Fern Plant",
+    "price": 100,
+    "description": "Green fern plant, enhances oxygen and freshness indoors.",
+    "category": "Indoor",
+    "image": "https://m.media-amazon.com/images/I/81wq7tccI7L.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 134
+    }
+  },
+  
+  {
+    "id": 21,
+    "title": "Sunflower Seeds",
+    "price": 45,
+    "description": "Premium quality sunflower seeds for bright and tall flowers.",
+    "category": "seeds",
+    "image": "https://dam.northwell.edu/m/724f6bf9102a3387/Drupal-TheWell_sunflower-seeds-benefits_AS_454119976.jpg",
+    "rating": { "rate": 4.5, "count": 120 }
+  },
+  {
+    "id": 22,
+    "title": "Tomato Seeds",
+    "price": 35,
+    "description": "Organic tomato seeds for fresh red tomatoes at home.",
+    "category": "seeds",
+    "image": "https://m.media-amazon.com/images/I/61LVu7jzQQL._UF1000,1000_QL80_.jpg",
+    "rating": { "rate": 4.3, "count": 90 }
+  },
+  {
+    "id": 23,
+    "title": "Coriander Seeds",
+    "price": 25,
+    "description": "Grow aromatic coriander leaves with these fresh seeds.",
+    "category": "seeds",
+    "image": "https://www.jiomart.com/images/product/original/rvz2chzpcr/platone-coriander-leaf-indian-vegetable-desi-seeds-summer-variety-coriandrum-sativum-cilantro-chinese-parsley-pack-of1-product-images-orvz2chzpcr-p598232122-0-202302081802.jpg?im=Resize=(420,420)",
+    "rating": { "rate": 4.6, "count": 75 }
+  },
+  {
+    "id": 24,
+    "title": "Spinach Seeds",
+    "price": 30,
+    "description": "Nutrient-rich spinach seeds for home gardening.",
+    "category": "seeds",
+    "image": "https://images.meesho.com/images/products/471315304/ztlxz_512.webp?width=512",
+    "rating": { "rate": 4.7, "count": 110 }
+  },
+  {
+    "id": 25,
+    "title": "Chili Seeds",
+    "price": 40,
+    "description": "Spicy chili seeds for adding heat to your meals.",
+    "category": "seeds",
+    "image": "https://2.wlimg.com/product_images/bc-full/2022/10/10851230/watermark/dried-red-chilli-seeds-1662536240-6527664.jpeg",
+    "rating": { "rate": 4.4, "count": 85 }
+  },
+  {
+    "id": 26,
+    "title": "Pumpkin Seeds",
+    "price": 50,
+    "description": "Pumpkin seeds to grow large and healthy pumpkins.",
+    "category": "seeds",
+    "image": "https://mindeescookingobsession.com/wp-content/uploads/2022/09/Roasted-Pumpkin-Seeds-HeroNew.jpg",
+    "rating": { "rate": 4.5, "count": 95 }
+  },
+  {
+    "id": 27,
+    "title": "Okra (Lady Finger) Seeds",
+    "price": 38,
+    "description": "High yielding okra seeds for kitchen garden.",
+    "category": "seeds",
+    "image": "https://m.media-amazon.com/images/I/71pnI5yIUDL._UF1000,1000_QL80_.jpg",
+    "rating": { "rate": 4.6, "count": 70 }
+  },
+  {
+    "id": 28,
+    "title": "Carrot Seeds",
+    "price": 32,
+    "description": "Orange carrot seeds rich in vitamin A.",
+    "category": "seeds",
+    "image": "https://rukminim2.flixcart.com/image/704/844/kgb5rbk0/plant-seed/8/d/h/100-carrot-seeds-gajar-ke-beej-organic-herbs-original-imafwkvrbrhmeeyu.jpeg?q=90&crop=false",
+    "rating": { "rate": 4.8, "count": 130 }
+  },
+  {
+    "id":29,
+    "title": "Cucumber Seeds",
+    "price": 36,
+    "description": "Fresh cucumber seeds for salads and pickles.",
+    "category": "seeds",
+    "image": "https://images.herzindagi.info/image/2019/Jan/cucumber-seeds-health-benefits-main.jpg",
+    "rating": { "rate": 4.5, "count": 82 }
+  },
+  {
+    "id": 30,
+    "title": "Marigold Flower Seeds",
+    "price": 28,
+    "description": "Vibrant marigold seeds for garden decoration.",
+    "category": "seeds",
+    "image": "https://rukminid2.flixcart.com/image/850/1000/kl5hh8w0/plant-seed/n/5/d/1000-lxi-682-ornamental-marigold-seeds-for-planting-vibex-original-imagychxztzhfzu5.jpeg?q=90&crop=false",
+    "rating": { "rate": 4.7, "count": 100 }
+  },
+  
+  {
+    "id": 31,
+    "title": "Ceramic Planter",
+    "price": 300,
+    "description": "Stylish ceramic planter for indoor plants.",
+    "category": "planter",
+    "image": "https://images.woodenstreet.de/image/data/16871769231%20(7).jpg",
+    "rating": { "rate": 4.5, "count": 130 }
+  },
+  {
+    "id": 32,
+    "title": "Plastic Self-Watering Pot",
+    "price": 150,
+    "description": "Durable self-watering plastic planter, easy to maintain.",
+    "category": "planter",
+    "image": "https://m.media-amazon.com/images/I/817CSquXidL.jpg",
+    "rating": { "rate": 4.2, "count": 90 }
+  },
+  {
+    "id": 33,
+    "title": "Wooden Planter Box",
+    "price": 400,
+    "description": "Eco-friendly wooden planter box for gardens & balconies.",
+    "category": "planter",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc8UhU5uRRD4Lm3nNCiSmYH8bLfBdWONUu4Q&s",
+    "rating": { "rate": 4.7, "count": 115 }
+  },
+  {
+    "id": 34,
+    "title": "Hanging Planter Basket",
+    "price": 220,
+    "description": "Woven hanging planter basket, ideal for small indoor spaces.",
+    "category": "planter",
+    "image": "https://www.urbanplant.in/cdn/shop/files/Primary1copy_c69b2b51-6c9b-413f-8224-efcf2e67be50.webp?v=1704191394f",
+    "rating": { "rate": 4.4, "count": 105 }
+  },
+  {
+    "id": 35,
+    "title": "Terracotta Clay Pot",
+    "price": 120,
+    "description": "Traditional terracotta pot for classic gardening style.",
+    "category": "planter",
+    "image": "https://cdn.mos.cms.futurecdn.net/6bxga49CXoKs8oHnTKjUaN.jpg",
+    "rating": { "rate": 4.6, "count": 98 }
+  },
+  {
+    "id": 36,
+    "title": "Metallic Planter",
+    "price": 280,
+    "description": "Modern metallic planter with rust-free coating.",
+    "category": "planter",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4NMhNApgE-bsCrluP8LiDY559YEyoQEDoQ&s",
+    "rating": { "rate": 4.3, "count": 112 }
+  },
+  {
+    "id": 37,
+    "title": "Mango Tree Sapling",
+    "price": 450,
+    "description": "Healthy mango tree sapling ideal for backyard plots, grows into a fruit-bearing tree.",
+    "category": "plotplants",
+    "image": "https://rukminim2.flixcart.com/image/704/844/xif0q/plant-sapling/i/w/g/annual-yes-yes-mangothai-4sd-1-plastic-bag-save-green-original-imaggx7yxbgpzx9x.jpeg?q=90&crop=false",
+    "rating": { "rate": 4.8, "count": 120 }
+  },
+  {
+    "id": 38,
+    "title": "Neem Tree Sapling",
+    "price": 220,
+    "description": "Sacred neem plant known for its medicinal properties and strong shade.",
+    "category": "plotplants",
+    "image": "https://m.media-amazon.com/images/I/51eI8fXYcWL._UF1000,1000_QL80_.jpg",
+    "rating": { "rate": 4.7, "count": 150 }
+  },
+  {
+    "id": 39,
+    "title": "Banana Plant",
+    "price": 300,
+    "description": "Fast-growing banana plant that thrives in open plots with good sunlight.",
+    "category": "plotplants",
+    "image": "https://rukminim2.flixcart.com/image/704/844/ktbu6q80/plant-sapling/0/q/z/yes-perennial-yes-hybrid-banana-live-plant-for-higher-production-original-imag6pfjkffdja4h.jpeg?q=90&crop=false",
+    "rating": { "rate": 4.6, "count": 100 }
+  },
+  {
+    "id": 40,
+    "title": "Guava Tree Sapling",
+    "price": 280,
+    "description": "Guava tree sapling that produces sweet and juicy fruits.",
+    "category": "plotplants",
+    "image": "https://happiestplants.com/cdn/shop/files/Layer_29_4dde668b-c3bb-4d6b-a4ea-079d0e170fa2_1946x_v_1657004318.png?v=1698754907&width=1445",
+    "rating": { "rate": 4.5, "count": 90 }
+  },
+  {
+    "id": 41,
+    "title": "Papaya Plant",
+    "price": 250,
+    "description": "Papaya plant that gives fresh and healthy papayas within 1 year.",
+    "category": "plotplants",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiqqV2-xOuVPLTn-B4h2ID1wihoc3OCN18Yg&s",
+    "rating": { "rate": 4.6, "count": 80 }
+  },
+  {
+    "id": 42,
+    "title": "Coconut Tree",
+    "price": 550,
+    "description": "Tall coconut tree sapling suitable for farms and open plots.",
+    "category": "plotplants",
+    "image": "https://www.coconutsapling.com/wp-content/uploads/2022/10/coconut-sapling-with-cover-1.png",
+    "rating": { "rate": 4.9, "count": 200 }
+  },
+  {
+    "id": 43,
+    "title": "Jackfruit Tree",
+    "price": 480,
+    "description": "Jackfruit tree sapling producing large, nutritious fruits.",
+    "category": "plotplants",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJbsOE2L4iithLN0oLKZanJgD49currWf-ng&s",
+    "rating": { "rate": 4.7, "count": 95 }
+  },
+ {
+    "id": 44,
+    "title": "Organic Compost",
+    "price": 120,
+    "description": "Rich organic compost made from decomposed plant material, improves soil fertility.",
+    "category": "fertilizers",
+    "image": "https://www.kelenytopsoil.com/wp-content/uploads/2022/08/shutterstock_669343642.jpg",
+    "rating": { "rate": 4.7, "count": 190 }
+  },
+  {
+    "id": 45,
+    "title": "Vermicompost",
+    "price": 150,
+    "description": "Nutrient-rich vermicompost produced by earthworms, boosts plant growth.",
+    "category": "fertilizers",
+    "image": "https://pushtiorganics.com/cdn/shop/files/Vermicompost_grande.jpg?v=1709291231",
+    "rating": { "rate": 4.8, "count": 210 }
+  },
+  {
+    "id": 46,
+    "title": "Cow Manure",
+    "price": 100,
+    "description": "Traditional cow dung manure for organic farming and gardening.",
+    "category": "manures",
+    "image": "https://www.ugaoo.com/cdn/shop/files/CowManure1KG_2_copy.jpg?v=1747478433&width=1000",
+    "rating": { "rate": 4.6, "count": 170 }
+  },
+  {
+    "id": 47,
+    "title": "Bone Meal Fertilizer",
+    "price": 180,
+    "description": "Natural phosphorus-rich fertilizer made from animal bones, ideal for flowering plants.",
+    "category": "fertilizers",
+    "image": "https://thehouseofterra.com/wp-content/uploads/2021/05/2-min1-scaled.jpg",
+    "rating": { "rate": 4.7, "count": 160 }
+  },
+  {
+    "id": 48,
+    "title": "Neem Cake Fertilizer",
+    "price": 170,
+    "description": "Neem seed cake powder acts as fertilizer and natural pest repellent.",
+    "category": "fertilizers",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/308161215/OY/TJ/SQ/29408605/brown-neem-cake-fertilizer.jpg",
+    "rating": { "rate": 4.8, "count": 220 }
+  },
+  {
+    "id": 49,
+    "title": "Seaweed Liquid Fertilizer",
+    "price": 200,
+    "description": "Organic seaweed-based liquid fertilizer for faster root development.",
+    "category": "fertilizers",
+    "image": "https://www.jiomart.com/images/product/original/rvolhlupv0/casa-de-amor-seaweed-extract-liquid-fertilizer-for-plants-500-ml-with-measuring-cup-product-images-orvolhlupv0-p594494930-0-202404221550.jpg?im=Resize=(420,420)",
+    "rating": { "rate": 4.9, "count": 140 }
+  },
+  {
+    "id": 50,
+    "title": "Sheep Manure",
+    "price": 130,
+    "description": "Dry sheep manure rich in nitrogen and potassium, great for vegetables.",
+    "category": "manures",
+    "image": "https://www.supasoils.com.au/cdn/shop/products/224889986375e44bb1fc8e5eac949dbbf94dbcf6_ff6363c4-6563-4002-94c9-19ec7fd36314_512x512.jpg?v=1553839406",
+    "rating": { "rate": 4.6, "count": 150 }
+  },
+  {
+    "id": 51,
+    "title": "Beginner Gardening Tool Kit",
+    "price": 550,
+    "description": "Includes hand trowel, cultivator, pruner, gloves, and spray bottle. Perfect for beginners.",
+    "category": "gardening-kit",
+    "image": "https://casadeamor.in/cdn/shop/products/716JD0ETSdL._SL1500.jpg?v=1694412530&width=1445",
+    "rating": { "rate": 4.8, "count": 180 }
+  },
+  {
+    "id": 52,
+    "title": "Vegetable Seed Starter Kit",
+    "price": 450,
+    "description": "Kit contains assorted vegetable seeds, cocopeat pots, and organic compost.",
+    "category": "gardening-kit",
+    "image": "https://m.media-amazon.com/images/I/917e7C-7fPL._UF1000,1000_QL80_.jpg",
+    "rating": { "rate": 4.7, "count": 150 }
+  },
+  {
+    "id": 53,
+    "title": "Organic Plant Care Combo",
+    "price": 600,
+    "description": "Pack of neem oil, vermicompost, seaweed liquid fertilizer, and gardening gloves.",
+    "category": "gardening-kit",
+    "image": "https://www.bioficsorganics.com/cdn/shop/files/Organics_Plant_Care_60c2aae2-5fd2-46a1-acb0-71ef9489e717.webp?v=1749548340",
+    "rating": { "rate": 4.6, "count": 160 }
+  },
+  {
+    "id": 54,
+    "title": "Indoor Gardening Kit",
+    "price": 720,
+    "description": "Kit includes decorative planters, potting mix, indoor plant seeds, and a mini watering can.",
+    "category": "gardening-kit",
+    "image": "https://image.made-in-china.com/318f0j00cafUYvujsWgN/03-PLANTER-1-minuto-con-texto-s7oqxl-mp4.webp",
+    "rating": { "rate": 4.9, "count": 140 }
+  },
+  {
+    "id": 55,
+    "title": "Balcony Garden Combo",
+    "price": 999,
+    "description": "Contains railing planters, flowering seeds, organic manure, and spray mister.",
+    "category": "gardening-kit",
+    "image": "https://nurserylive.com/cdn/shop/products/nurserylive-combo-packs-plants-decorate-indirect-light-receiving-balcony-with-garden-plants-16968817672332.jpg?v=1634217737",
+    "rating": { "rate": 4.7, "count": 120 }
+  }
+]
