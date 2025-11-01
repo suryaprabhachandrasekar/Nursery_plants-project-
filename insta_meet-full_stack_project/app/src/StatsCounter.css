@@ -1,0 +1,19 @@
+.bg-light-blue {
+  background-color: #f0f7ff;
+}
+
+.icon-circle {
+  background-color: #ff4d30;
+  color: white;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+
+.text-purple {
+  color: #6a1b9a;
+}

@@ -1,0 +1,25 @@
+.contact-section {
+  background-color: #fff;
+}
+
+.text-purple {
+  color: #6a1b9a;
+}
+
+.social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #6a1b9a;
+  color: white;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.social-icon:hover {
+  background-color: #ff4d30;
+  color: white;
+}

@@ -1,0 +1,8 @@
+/* popularCourse */
+.pop_div:hover .pop_img{
+    scale: 1.1;
+    transition: 500ms;
+}
+.pop_div{
+    overflow: hidden;
+}
