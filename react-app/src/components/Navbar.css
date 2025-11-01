@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100..900&display=swap');
+
+
+
+nav .container-fluid {
+    background-color: #789DBC; 
+}
+
+
+
+.logo{
+    padding-left: 10px;
+    font-family: "Smooch Sans", sans-serif;
+    font-size: 45px;
+    color: black;
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+
+
+
+/* .inputbox input{
+    height: 40px;   
+    outline: none;
+    border: none;
+    border-color: white;
+    border-radius: 20px;
+    padding: 5px;
+    color: #3788E1;
+    background-color:#B5FCCD;
+    width: 100%;
+    margin-left: 0;
+}
+
+.inputbox{
+    height: 45px;
+    border: 1px solid #3788E1;
+    border-radius: 60px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+} */
+
+.icon{
+  
+   height: 10px;
+   padding: 15px;
+   margin: 0px;
+   background-color: black;
+   border-radius: 50%;
+}
+
+.nav_form{
+    border: 2px solid black;
+    width: 80%;
+    
+}
+
+.form-control{
+    background-color:#789DBC ;
+    font-size: large;
+    outline:none;
+    border:none;
+   
+} 
+
+.form-control:focus{
+    background-color:#F1EFEC ;
+    box-shadow: none;
+    border: none;
+    outline-style: none;
+}
+
+.form-control::placeholder{
+    color:darkslategray;
+    opacity: 0.9;
+}
+
+.navbar-nav{
+    font-family: "Smooch Sans", sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.mainsec{
+   margin-top:15px;
+   font-family: "Mona Sans";
+}
+
+.higlit{
+    color: black;
+    font-family: "Smooch Sans", sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+.cont p{
+    color: darkcyan;
+}
+
+.hoverhome{
+    color: black;
+    text-decoration: none;
+}
+
+.hoverhome:hover{
+    color:white;
+ }
+
+ .cartbtn{
+    padding: 8px 20px;
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 16px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: "transform 0.2s, box-shadow 0.2s";
+ }
+
+ .readmorelink {
+      color:white;
+      text-decoration: none;
+      font-weight: bold;
+      font-size: '16px';
+ }
+
+ .readmorebtn{
+    margin-top: 0;
+    padding :8px 20px;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    border: none;
+    border-radius: 8px;
+    cursor: "pointer";
+    transition: 'transform 0.2s';
+ }
+
+ .ulhover{
+    font-family: "Smooch Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+ }
+
+ .ulhover:hover{
+    color: black !important;
+ }
